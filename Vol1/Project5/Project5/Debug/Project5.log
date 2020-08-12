@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\Project5\Project5\Source.cpp(76): warning C4715: 'Sudoku::continuarJuego': no todas las rutas de acceso de control devuelven un valor
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project5.vcxproj -> C:\Users\DYLAND\source\repos\Project5\Debug\Project5.exe

@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(207,46): warning C4244: '=': conversión de 'float' a 'short'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(213,34): warning C4244: 'return': conversión de 'float' a 'short'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(237,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(242,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(246,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(250,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(271,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(276,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(280,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(284,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(360,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(365,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(365,42): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(369,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Prueba dOscar\Prueba dOscar\Source.cpp(373,21): warning C4018: '<': no coinciden signed/unsigned
+  Prueba dOscar.vcxproj -> C:\Users\DYLAND\source\repos\Prueba dOscar\Debug\Prueba dOscar.exe

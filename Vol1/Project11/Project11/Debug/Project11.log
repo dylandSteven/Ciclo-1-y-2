@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(105,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(109,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(152,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(156,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(245,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(340,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(341,23): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(342,29): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(351,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(353,23): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(361,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(362,23): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(363,21): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(369,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(370,23): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(371,20): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(377,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(378,23): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(379,20): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(384,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(385,23): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(386,20): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project11\Project11\Source.cpp(295,6): warning C4101: 'dia': variable local sin referencia
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project11.vcxproj -> C:\Users\DYLAND\source\repos\Project11\Debug\Project11.exe

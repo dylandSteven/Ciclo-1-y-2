@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Debug\claseProfe.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Debug\claseProfe.Formclase.resources
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Debug\claseProfe.vcxproj.GenerateResource.cache

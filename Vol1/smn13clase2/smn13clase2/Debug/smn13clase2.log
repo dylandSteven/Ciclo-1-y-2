@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\DYLAND\source\repos\smn13clase2\smn13clase2\Header.h(60,2): error C2059: error de sintaxis: 'constante'
+C:\Users\DYLAND\source\repos\smn13clase2\smn13clase2\Header.h(61,1): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\DYLAND\source\repos\smn13clase2\smn13clase2\Header.h(61,1): error C2238: símbolos (token) inesperados delante de ';'
+  Source.cpp
+C:\Users\DYLAND\source\repos\smn13clase2\smn13clase2\Header.h(60,2): error C2059: error de sintaxis: 'constante'
+C:\Users\DYLAND\source\repos\smn13clase2\smn13clase2\Header.h(61,1): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\DYLAND\source\repos\smn13clase2\smn13clase2\Header.h(61,1): error C2238: símbolos (token) inesperados delante de ';'
+  Generando código...

@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\Afianzamiento\Afianzamiento\Debug\Afianzamiento.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\Afianzamiento\Afianzamiento\Debug\Afianzamiento.MyForm.resources
+C:\Users\DYLAND\source\repos\Afianzamiento\Afianzamiento\Debug\Afianzamiento.vcxproj.GenerateResource.cache

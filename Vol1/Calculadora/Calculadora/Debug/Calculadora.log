@@ -1,0 +1,7 @@
+﻿  Calculadorea.cpp
+C:\Users\DYLAND\source\repos\Calculadora\Calculadora\calcuForm.h(29,8): warning C4101: 'numero': variable local sin referencia
+  calcuForm.cpp
+C:\Users\DYLAND\source\repos\Calculadora\Calculadora\calcuForm.h(29,8): warning C4101: 'numero': variable local sin referencia
+  Generando código...
+  calcuForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Calculadora.vcxproj -> C:\Users\DYLAND\source\repos\Calculadora\Debug\Calculadora.exe

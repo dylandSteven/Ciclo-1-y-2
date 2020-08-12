@@ -1,0 +1,8 @@
+﻿  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Formarreglo.cpp
+  Source.cpp
+  Generando código...
+C:\Users\DYLAND\source\repos\sem10part3\sem10part3\Arreglo.h(57): warning C4715: 'Coleccion::obtenerBoton': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DYLAND\source\repos\sem10part3\sem10part3\Arreglo.h(57): warning C4715: 'Coleccion::obtenerBoton': no todas las rutas de acceso de control devuelven un valor
+  Formarreglo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  sem10part3.vcxproj -> C:\Users\DYLAND\source\repos\sem10part3\Debug\sem10part3.exe

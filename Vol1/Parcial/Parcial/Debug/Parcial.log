@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\Parcial\Parcial\Source.cpp(3,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\DYLAND\source\repos\Parcial\Parcial\Source.cpp(25,7): warning C4101: 'segundoresultado': variable local sin referencia
+C:\Users\DYLAND\source\repos\Parcial\Parcial\Source.cpp(27,8): warning C4101: 'edad': variable local sin referencia
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Parcial.vcxproj -> C:\Users\DYLAND\source\repos\Parcial\Debug\Parcial.exe

@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\x64\Debug\JuegoMemoria.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\x64\Debug\JuegoMemoria.FormMemoria.resources
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\x64\Debug\JuegoMemoria.vcxproj.GenerateResource.cache

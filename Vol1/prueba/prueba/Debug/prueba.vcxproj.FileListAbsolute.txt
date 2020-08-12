@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\prueba\prueba\Debug\prueba.MyForm.resources
+C:\Users\DYLAND\source\repos\prueba\prueba\Debug\prueba.vcxproj.GenerateResource.cache
+C:\Users\DYLAND\source\repos\prueba\prueba\Debug\prueba.vcxprojAssemblyReference.cache

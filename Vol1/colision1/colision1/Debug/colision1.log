@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\DYLAND\source\repos\colision1\colision1\Circulo.h(39,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\colision1\colision1\Circulo.h(39,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\colision1\colision1\Circulo.h(45,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\colision1\colision1\Circulo.h(45,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Source.cpp
+C:\Users\DYLAND\source\repos\colision1\colision1\Circulo.h(39,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\colision1\colision1\Circulo.h(39,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\colision1\colision1\Circulo.h(45,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\colision1\colision1\Circulo.h(45,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  colision1.vcxproj -> C:\Users\DYLAND\source\repos\colision1\Debug\colision1.exe

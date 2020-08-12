@@ -1,0 +1,5 @@
+C:\Users\DYLAND\source\repos\sprite\sprite\Debug\sprite.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\sprite\sprite\Debug\sprite.formSprite.resources
+C:\Users\DYLAND\source\repos\sprite\sprite\Debug\sprite.vcxproj.GenerateResource.cache
+C:\Users\DYLAND\source\repos\sprite\sprite\Debug\sprite.Animaciofrm.resources
+C:\Users\DYLAND\source\repos\sprite\sprite\Debug\sprite.FRMAminaciones3.resources

@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\calcukladora3\calcukladora3\Debug\calcukladora3.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\calcukladora3\calcukladora3\Debug\calcukladora3.MyFormcalcu.resources
+C:\Users\DYLAND\source\repos\calcukladora3\calcukladora3\Debug\calcukladora3.vcxproj.GenerateResource.cache

@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\MatrizBidimencional.h(20,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\ArregloBomba.h(21,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\ArregloBomba.h(34,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Mejora.h(22,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Mejora.h(55,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Mejora.h(55,55): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Mejora.h(62,57): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Mejora.h(62,43): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\arrMejoras.h(23,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Enemigo.h(31,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\ArrEnemigos.h(27,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Controladora.h(44,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Controladora.h(58,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Controladora.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\MyForm.h(204,87): warning C4018: '<': no coinciden signed/unsigned
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Controladora.h(71): warning C4700: se utilizó la variable local 'centrolFinalY' sin inicializar
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Bomberman.vcxproj -> C:\Users\DYLAND\source\repos\Bomberman\Debug\Bomberman.exe

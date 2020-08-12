@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\sem10ej1\sem10ej1\Debug\sem10ej1.forejer.resources
+C:\Users\DYLAND\source\repos\sem10ej1\sem10ej1\Debug\sem10ej1.vcxproj.GenerateResource.cache
+C:\Users\DYLAND\source\repos\sem10ej1\sem10ej1\Debug\sem10ej1.vcxprojAssemblyReference.cache

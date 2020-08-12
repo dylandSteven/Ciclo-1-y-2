@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(418,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(465,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(482,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(495,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(508,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(526,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(532,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(538,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(451,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : vea la declaración de 'kbhit'
+C:\Users\DYLAND\source\repos\Project2\Project2\Source.cpp(452,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : vea la declaración de 'getch'
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project2.vcxproj -> C:\Users\DYLAND\source\repos\Project2\Debug\Project2.exe

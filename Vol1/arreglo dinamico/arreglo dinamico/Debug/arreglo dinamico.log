@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\arreglo dinamico\arreglo dinamico\arrAuto.h(51,7): warning C4101: 'promedio': variable local sin referencia
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  arreglo dinamico.vcxproj -> C:\Users\DYLAND\source\repos\arreglo dinamico\Debug\eMPRESA tOYOTA.exe

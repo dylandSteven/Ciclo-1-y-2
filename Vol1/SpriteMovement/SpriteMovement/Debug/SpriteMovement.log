@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\SpriteMovement\SpriteMovement\Enemy.h(28,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\SpriteMovement\SpriteMovement\Enemy.h(28,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\SpriteMovement\SpriteMovement\FrmMain.h(109,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\SpriteMovement\SpriteMovement\FrmMain.h(109,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  SpriteMovement.vcxproj -> C:\Users\DYLAND\source\repos\SpriteMovement\Debug\SpriteMovement.exe

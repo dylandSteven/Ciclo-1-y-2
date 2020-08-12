@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\claes\claes\Source.cpp(19,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claes\claes\Source.cpp(31,20): warning C4018: '<': no coinciden signed/unsigned
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  claes.vcxproj -> C:\Users\DYLAND\source\repos\claes\Debug\claes.exe

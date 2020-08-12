@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "miniPaint", "miniPaint\miniPaint.vcxproj", "{897D1B11-FF99-4751-9AA2-4AAEB606A49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{897D1B11-FF99-4751-9AA2-4AAEB606A49C}.Debug|x64.ActiveCfg = Debug|x64
+		{897D1B11-FF99-4751-9AA2-4AAEB606A49C}.Debug|x64.Build.0 = Debug|x64
+		{897D1B11-FF99-4751-9AA2-4AAEB606A49C}.Debug|x86.ActiveCfg = Debug|Win32
+		{897D1B11-FF99-4751-9AA2-4AAEB606A49C}.Debug|x86.Build.0 = Debug|Win32
+		{897D1B11-FF99-4751-9AA2-4AAEB606A49C}.Release|x64.ActiveCfg = Release|x64
+		{897D1B11-FF99-4751-9AA2-4AAEB606A49C}.Release|x64.Build.0 = Release|x64
+		{897D1B11-FF99-4751-9AA2-4AAEB606A49C}.Release|x86.ActiveCfg = Release|Win32
+		{897D1B11-FF99-4751-9AA2-4AAEB606A49C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72F97219-E489-4FCB-9C43-3C508DA83432}
+	EndGlobalSection
+EndGlobal

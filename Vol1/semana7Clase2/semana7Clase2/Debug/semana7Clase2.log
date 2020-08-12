@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(32,35): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(113,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(133,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(266,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(272,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(277,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(299,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(305,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(310,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(333,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(406,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(410,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(416,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(421,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(434,36): warning C4305: 'argumento': truncamiento de 'int' a 'short'
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(434,30): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(435,38): warning C4305: 'argumento': truncamiento de 'int' a 'short'
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(435,32): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(436,37): warning C4305: 'argumento': truncamiento de 'int' a 'short'
+C:\Users\DYLAND\source\repos\semana7Clase2\semana7Clase2\Source.cpp(436,31): warning C4309: 'argumento': truncamiento de valor constante
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  semana7Clase2.vcxproj -> C:\Users\DYLAND\source\repos\semana7Clase2\Debug\semana7Clase2.exe

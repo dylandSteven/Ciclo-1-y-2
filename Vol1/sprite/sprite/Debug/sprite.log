@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\sprite\sprite\Personajeadm.h(47,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\sprite\sprite\Personajeadm.h(47,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  sprite.vcxproj -> C:\Users\DYLAND\source\repos\sprite\Debug\sprite.exe

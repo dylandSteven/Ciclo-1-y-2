@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\colision1\colision1\Debug\colision1.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\colision1\colision1\Debug\colision1.MyForm.resources
+C:\Users\DYLAND\source\repos\colision1\colision1\Debug\colision1.vcxproj.GenerateResource.cache

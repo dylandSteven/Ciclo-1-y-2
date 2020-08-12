@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\Project8\Project8\Source.cpp(65,6): warning C4101: 'k': variable local sin referencia
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project8.vcxproj -> C:\Users\DYLAND\source\repos\Project8\Debug\Project8.exe

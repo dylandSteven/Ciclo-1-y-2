@@ -1,0 +1,19 @@
+﻿  Formclase.cpp
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(16,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(24,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(34,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(46,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(52,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(53,22): warning C4018: '<': no coinciden signed/unsigned
+  Source.cpp
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(16,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(24,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(34,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(46,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(52,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(53,22): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(19): warning C4715: 'Numeros::recuperar': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DYLAND\source\repos\claseProfe\claseProfe\Numeros.h(19): warning C4715: 'Numeros::recuperar': no todas las rutas de acceso de control devuelven un valor
+  Formclase.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  claseProfe.vcxproj -> C:\Users\DYLAND\source\repos\claseProfe\Debug\claseProfe.exe

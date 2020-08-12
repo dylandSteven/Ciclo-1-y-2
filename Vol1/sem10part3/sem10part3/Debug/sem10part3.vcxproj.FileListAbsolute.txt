@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\sem10part3\sem10part3\Debug\sem10part3.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\sem10part3\sem10part3\Debug\sem10part3.Formarreglo.resources
+C:\Users\DYLAND\source\repos\sem10part3\sem10part3\Debug\sem10part3.vcxproj.GenerateResource.cache

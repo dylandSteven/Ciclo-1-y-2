@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\DYLAND\source\repos\Movimimento Parabolico\Movimimento Parabolico\MyForm.h(113,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Source.cpp
+C:\Users\DYLAND\source\repos\Movimimento Parabolico\Movimimento Parabolico\MyForm.h(113,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Movimimento Parabolico.vcxproj -> C:\Users\DYLAND\source\repos\Movimimento Parabolico\Debug\Movimimento Parabolico.exe

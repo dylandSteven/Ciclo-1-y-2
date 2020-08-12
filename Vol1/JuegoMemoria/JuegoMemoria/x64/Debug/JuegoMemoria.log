@@ -1,0 +1,11 @@
+﻿  FormMemoria.cpp
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\Botones.h(23,7): warning C4101: 'y': variable local sin referencia
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\Botones.h(22,7): warning C4101: 'x': variable local sin referencia
+  Source.cpp
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\Botones.h(23,7): warning C4101: 'y': variable local sin referencia
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\Botones.h(22,7): warning C4101: 'x': variable local sin referencia
+  Generando código...
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\Botones.h(44): warning C4715: 'Botones::recuperar': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DYLAND\source\repos\JuegoMemoria\JuegoMemoria\Botones.h(44): warning C4715: 'Botones::recuperar': no todas las rutas de acceso de control devuelven un valor
+  FormMemoria.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  JuegoMemoria.vcxproj -> C:\Users\DYLAND\source\repos\JuegoMemoria\x64\Debug\JuegoMemoria.exe

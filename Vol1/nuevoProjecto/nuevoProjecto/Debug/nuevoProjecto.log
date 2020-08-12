@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\nuevoProjecto\nuevoProjecto\Source.cpp(105,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : vea la declaración de 'kbhit'
+C:\Users\DYLAND\source\repos\nuevoProjecto\nuevoProjecto\Source.cpp(106,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : vea la declaración de 'getch'
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  nuevoProjecto.vcxproj -> C:\Users\DYLAND\source\repos\nuevoProjecto\Debug\nuevoProjecto.exe

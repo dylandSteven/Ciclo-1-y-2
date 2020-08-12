@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\problemaBus\problemaBus\Sucursal.h(20,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\problemaBus\problemaBus\Clientes.h(34,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\source\repos\problemaBus\problemaBus\Source.cpp(17,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\problemaBus\problemaBus\Source.cpp(24,8): warning C4101: 'nue': variable local sin referencia
+C:\Users\DYLAND\source\repos\problemaBus\problemaBus\Source.cpp(25,11): warning C4101: 'nuevoCLiente': variable local sin referencia
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  problemaBus.vcxproj -> C:\Users\DYLAND\source\repos\problemaBus\Debug\problemaBus.exe

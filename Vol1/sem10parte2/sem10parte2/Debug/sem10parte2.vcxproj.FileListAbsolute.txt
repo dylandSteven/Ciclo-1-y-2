@@ -1,0 +1,5 @@
+C:\Users\DYLAND\source\repos\sem10parte2\sem10parte2\Debug\sem10parte2.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\sem10parte2\sem10parte2\Debug\sem10parte2.formudos.resources
+C:\Users\DYLAND\source\repos\sem10parte2\sem10parte2\Debug\sem10parte2.vcxproj.GenerateResource.cache
+C:\Users\DYLAND\source\repos\sem10parte2\sem10parte2\Debug\sem10parte2.form1.resources
+C:\Users\DYLAND\source\repos\sem10parte2\sem10parte2\Debug\sem10parte2.Formu3.resources

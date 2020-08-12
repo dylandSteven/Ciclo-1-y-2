@@ -1,0 +1,4 @@
+C:\Users\DYLAND\source\repos\graficasprimitivas\graficasprimitivas\Debug\graficasprimitivas.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\graficasprimitivas\graficasprimitivas\Debug\graficasprimitivas.figurasform.resources
+C:\Users\DYLAND\source\repos\graficasprimitivas\graficasprimitivas\Debug\graficasprimitivas.vcxproj.GenerateResource.cache
+C:\Users\DYLAND\source\repos\graficasprimitivas\graficasprimitivas\Debug\graficasprimitivas.frmcanvas1.resources

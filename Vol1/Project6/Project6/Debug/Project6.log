@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(66,25): error C2062: tipo 'int' inesperado
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(66,29): warning C4552: "<": el resultado de la expresión no se usa
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(66,38): error C2059: error de sintaxis: ')'
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(67,3): error C2059: error de sintaxis: 'if'
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(67,22): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(68,13): error C2065: 'k': identificador no declarado
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(69,4): error C2065: 'k': identificador no declarado
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(72,7): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(72,13): error C2440: 'inicializando': no se puede realizar la conversión de 'int' a 'int *'
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(72,5): message : La conversión de un tipo entero a un tipo de puntero requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(73,3): error C2059: error de sintaxis: 'return'
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(74,2): error C2059: error de sintaxis: '}'
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(74,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(76,33): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(76,33): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\DYLAND\source\repos\Project6\Project6\Source.cpp(142,5): error C3861: 'ordenar': no se encontró el identificador

@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\miniPaint\miniPaint\Debug\miniPaint.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\miniPaint\miniPaint\Debug\miniPaint.formPaint.resources
+C:\Users\DYLAND\source\repos\miniPaint\miniPaint\Debug\miniPaint.vcxproj.GenerateResource.cache

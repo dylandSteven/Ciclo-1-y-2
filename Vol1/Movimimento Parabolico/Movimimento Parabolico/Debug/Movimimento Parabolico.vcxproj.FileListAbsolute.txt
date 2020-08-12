@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\Movimimento Parabolico\Movimimento Parabolico\Debug\Movimimento Parabolico.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\Movimimento Parabolico\Movimimento Parabolico\Debug\MovimimentoParabolico.MyForm.resources
+C:\Users\DYLAND\source\repos\Movimimento Parabolico\Movimimento Parabolico\Debug\Movimimento Parabolico.vcxproj.GenerateResource.cache

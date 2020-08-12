@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(78,76): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(78,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(78,61): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(78,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(79,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(79,39): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(79,36): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(79,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Source.cpp
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(78,76): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(78,69): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(78,61): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(78,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(79,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(79,39): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(79,36): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\source\repos\claseVideo1\claseVideo1\Runner.h(79,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  claseVideo1.vcxproj -> C:\Users\DYLAND\source\repos\claseVideo1\Debug\claseVideo1.exe

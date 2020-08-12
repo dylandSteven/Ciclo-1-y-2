@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\Semana 11 - Ejemplo 1\Semana 11 - Ejemplo 1\Debug\Semana 11 - Ejemplo 1.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\Semana 11 - Ejemplo 1\Semana 11 - Ejemplo 1\Debug\Semana11Ejemplo1.FormVisor.resources
+C:\Users\DYLAND\source\repos\Semana 11 - Ejemplo 1\Semana 11 - Ejemplo 1\Debug\Semana 11 - Ejemplo 1.vcxproj.GenerateResource.cache

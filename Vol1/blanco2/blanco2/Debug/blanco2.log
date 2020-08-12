@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\DYLAND\source\repos\blanco2\blanco2\Source.cpp(137,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\DYLAND\source\repos\blanco2\blanco2\Source.cpp(138,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  blanco2.vcxproj -> C:\Users\DYLAND\source\repos\blanco2\Debug\blanco2.exe

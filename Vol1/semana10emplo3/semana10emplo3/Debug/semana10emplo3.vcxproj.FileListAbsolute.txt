@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\semana10emplo3\semana10emplo3\Debug\semana10emplo3.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\semana10emplo3\semana10emplo3\Debug\semana10emplo3.formcirculos.resources
+C:\Users\DYLAND\source\repos\semana10emplo3\semana10emplo3\Debug\semana10emplo3.vcxproj.GenerateResource.cache

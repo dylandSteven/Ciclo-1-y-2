@@ -1,0 +1,4 @@
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Debug\Bomberman.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Debug\Bomberman.MyForm.resources
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Debug\Bomberman.vcxproj.GenerateResource.cache
+C:\Users\DYLAND\source\repos\Bomberman\Bomberman\Debug\Bomberman.MenuPrincipal.resources

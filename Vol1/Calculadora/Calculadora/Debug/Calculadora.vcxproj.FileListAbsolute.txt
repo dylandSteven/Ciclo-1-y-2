@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\Calculadora\Calculadora\Debug\Calculadora.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\Calculadora\Calculadora\Debug\Calculadora.calcuForm.resources
+C:\Users\DYLAND\source\repos\Calculadora\Calculadora\Debug\Calculadora.vcxproj.GenerateResource.cache

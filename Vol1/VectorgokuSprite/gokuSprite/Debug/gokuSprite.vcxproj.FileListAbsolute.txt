@@ -1,0 +1,3 @@
+C:\Users\DYLAND\source\repos\gokuSprite\gokuSprite\Debug\gokuSprite.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\source\repos\gokuSprite\gokuSprite\Debug\gokuSprite.MyForm.resources
+C:\Users\DYLAND\source\repos\gokuSprite\gokuSprite\Debug\gokuSprite.vcxproj.GenerateResource.cache
