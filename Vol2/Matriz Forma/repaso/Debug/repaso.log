@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (repaso.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Source.cpp
+C:\Users\DYLAND\Documents\ciclo 2\repaso\repaso\Source.cpp(131,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\DYLAND\Documents\ciclo 2\repaso\repaso\Source.cpp(137,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  repaso.vcxproj -> C:\Users\DYLAND\Documents\ciclo 2\repaso\Debug\Matriz Formas.exe

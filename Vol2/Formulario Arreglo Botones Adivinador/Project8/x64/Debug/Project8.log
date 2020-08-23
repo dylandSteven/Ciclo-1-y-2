@@ -1,0 +1,13 @@
+﻿  Linker.cpp
+C:\Users\DYLAND\Desktop\Nueva carpeta (5)\Project8\Botones.h(20,36): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Nueva carpeta (5)\Project8\Botones.h(20,33): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Nueva carpeta (5)\Project8\Botones.h(42,33): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Nueva carpeta (5)\Project8\Botones.h(42,30): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  MyForm.cpp
+C:\Users\DYLAND\Desktop\Nueva carpeta (5)\Project8\Botones.h(20,36): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Nueva carpeta (5)\Project8\Botones.h(20,33): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Nueva carpeta (5)\Project8\Botones.h(42,33): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Nueva carpeta (5)\Project8\Botones.h(42,30): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  Generando código...
+  Linker.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project8.vcxproj -> C:\Users\DYLAND\Desktop\Nueva carpeta (5)\x64\Debug\Project8.exe

@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(11,12): warning C4552: "<": el resultado de la expresión no se usa
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(11,14): error C2429: función de idioma 'init-statements en if/switch' requiere la marca de compilador '/std:c++17'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(11,17): error C2059: error de sintaxis: ')'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(11,19): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(19,27): error C2146: error de sintaxis: falta ')' delante del identificador 'i'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(19,28): error C2059: error de sintaxis: ';'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(19,30): error C2059: error de sintaxis: ')'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(20,3): error C2062: tipo 'int' inesperado
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(21,25): error C2065: 'random': identificador no declarado
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(32,28): error C2146: error de sintaxis: falta ')' delante del identificador 'i'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(32,29): error C2059: error de sintaxis: ';'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(32,34): error C2059: error de sintaxis: ')'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(32,36): error C2059: error de sintaxis: '{'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(32,36): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(33,29): error C2146: error de sintaxis: falta ')' delante del identificador 'j'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(33,30): error C2059: error de sintaxis: ';'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(33,32): error C2059: error de sintaxis: ')'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(34,5): error C2059: error de sintaxis: 'if'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(34,26): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(36,19): error C2065: 'j': identificador no declarado
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(37,10): error C2065: 'j': identificador no declarado
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(37,19): error C2065: 'j': identificador no declarado
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(38,10): error C2065: 'j': identificador no declarado
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(43,2): error C2059: error de sintaxis: '}'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(43,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(45,30): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Header.h(45,30): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Source.cpp(9,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Documents\Visual Studio 2019\Projects\Project1\Project1\Source.cpp(24,2): error C3861: 'countNumbers': no se encontró el identificador

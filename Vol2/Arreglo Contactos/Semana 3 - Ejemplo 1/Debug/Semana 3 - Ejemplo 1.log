@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\DYLAND\Documents\ciclo 2\Semana 3 - Ejemplo 1\Semana 3 - Ejemplo 1\Contacto.h(41,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DYLAND\Documents\ciclo 2\Semana 3 - Ejemplo 1\Semana 3 - Ejemplo 1\Source.cpp(36,12): warning C4551: la llamada a la función no tiene lista de argumentos
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Semana 3 - Ejemplo 1.vcxproj -> C:\Users\DYLAND\Documents\ciclo 2\Semana 3 - Ejemplo 1\Debug\Semana 3 - Ejemplo 1.exe

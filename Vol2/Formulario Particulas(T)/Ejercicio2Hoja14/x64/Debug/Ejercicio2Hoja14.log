@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Users\DYLAND\Desktop\Ejercicio2Hoja14\Ejercicio2Hoja14\Particula.h(83,88): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Ejercicio2Hoja14\Ejercicio2Hoja14\Particula.h(83,60): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Ejercicio2Hoja14\Ejercicio2Hoja14\Down.h(16,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Ejercicio2Hoja14\Ejercicio2Hoja14\Down.h(16,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Ejercicio2Hoja14\Ejercicio2Hoja14\Up.h(16,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Ejercicio2Hoja14\Ejercicio2Hoja14\Up.h(16,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\Ejercicio2Hoja14\Ejercicio2Hoja14\MyForm.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Generando código...
+  MyForm.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ejercicio2Hoja14.vcxproj -> C:\Users\DYLAND\Desktop\Ejercicio2Hoja14\x64\Debug\Ejercicio2Hoja14.exe

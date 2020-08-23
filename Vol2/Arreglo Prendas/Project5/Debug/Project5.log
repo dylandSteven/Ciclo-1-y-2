@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\DYLAND\Documents\ciclo 2\Project5\Project5\Source.cpp(188,1): warning C4805: '==': combinación no segura del tipo 'float' y el tipo 'bool' en la operación
+C:\Users\DYLAND\Documents\ciclo 2\Project5\Project5\Source.cpp(329,11): warning C4101: 'n': variable local sin referencia
+C:\Users\DYLAND\Documents\ciclo 2\Project5\Project5\Source.cpp(98): warning C4700: se utilizó la variable local 'i' sin inicializar
+C:\Users\DYLAND\Documents\ciclo 2\Project5\Project5\Source.cpp(214): warning C4700: se utilizó la variable local 'contador' sin inicializar
+C:\Users\DYLAND\Documents\ciclo 2\Project5\Project5\Source.cpp(225): warning C4700: se utilizó la variable local 'contador' sin inicializar
+C:\Users\DYLAND\Documents\ciclo 2\Project5\Project5\Source.cpp(236): warning C4700: se utilizó la variable local 'contador' sin inicializar
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project5.vcxproj -> C:\Users\DYLAND\Documents\ciclo 2\Project5\Debug\Project5.exe

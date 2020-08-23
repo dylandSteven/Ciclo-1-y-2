@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\DYLAND\Documents\ciclo 2\Project4\Project4\Source.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Documents\ciclo 2\Project4\Project4\Header.h(66): warning C4700: se utilizó la variable local 'num' sin inicializar
+C:\Users\DYLAND\Documents\ciclo 2\Project4\Project4\Header.h(67): warning C4700: se utilizó la variable local 'mayus' sin inicializar
+C:\Users\DYLAND\Documents\ciclo 2\Project4\Project4\Header.h(68): warning C4700: se utilizó la variable local 'min' sin inicializar
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project4.vcxproj -> C:\Users\DYLAND\Documents\ciclo 2\Project4\Debug\Project4.exe

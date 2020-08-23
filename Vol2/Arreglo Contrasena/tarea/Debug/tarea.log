@@ -1,0 +1,6 @@
+﻿  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Source.cpp
+C:\Users\DYLAND\Documents\ciclo 2\tarea\tarea\arreglo.h(34,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  tarea.vcxproj -> C:\Users\DYLAND\Documents\ciclo 2\tarea\Debug\tarea.exe

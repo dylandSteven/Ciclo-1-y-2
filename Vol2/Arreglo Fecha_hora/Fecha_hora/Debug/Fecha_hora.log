@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\DYLAND\Documents\ciclo 2\Fecha_hora\Fecha_hora\ArrEcliplse.h(44,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\Documents\ciclo 2\Fecha_hora\Fecha_hora\ArrEcliplse.h(52,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\Documents\ciclo 2\Fecha_hora\Fecha_hora\ArrEcliplse.h(64,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\Documents\ciclo 2\Fecha_hora\Fecha_hora\ArrEcliplse.h(75,21): warning C4018: '<': no coinciden signed/unsigned
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Fecha_hora.vcxproj -> C:\Users\DYLAND\Documents\ciclo 2\Fecha_hora\Debug\Fecha_hora.exe

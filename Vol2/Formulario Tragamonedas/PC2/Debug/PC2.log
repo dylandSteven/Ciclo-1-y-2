@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\DYLAND\Downloads\PC2\PC2\Tragamonedas.h(16,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Downloads\PC2\PC2\MyForm.h(52,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Nombre.cpp
+C:\Users\DYLAND\Downloads\PC2\PC2\Tragamonedas.h(16,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Downloads\PC2\PC2\MyForm.h(52,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Source.cpp
+C:\Users\DYLAND\Downloads\PC2\PC2\Tragamonedas.h(16,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Downloads\PC2\PC2\MyForm.h(52,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PC2.vcxproj -> C:\Users\DYLAND\Downloads\PC2\Debug\PC2.exe

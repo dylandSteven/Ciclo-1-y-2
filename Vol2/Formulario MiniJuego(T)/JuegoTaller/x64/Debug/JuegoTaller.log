@@ -1,0 +1,19 @@
+﻿  FormMenu.cpp
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Flecha.h(104,88): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Flecha.h(104,60): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Proyectil.h(17,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Proyectil.h(18,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Proyectil.h(105,88): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Proyectil.h(105,60): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  MyForm.cpp
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Flecha.h(104,88): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Flecha.h(104,60): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Proyectil.h(17,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Proyectil.h(18,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Proyectil.h(105,88): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\Proyectil.h(105,60): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Generando código...
+  FormMenu.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  FormMenu.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  JuegoTaller.vcxproj -> C:\Users\DYLAND\Desktop\JuegoTaller\x64\Debug\JuegoTaller.exe

@@ -1,0 +1,3 @@
+C:\Users\DYLAND\Desktop\TallerProgramaciónII\TallerProgramaciónII\Debug\TallerProgramaciónII.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\Desktop\TallerProgramaciónII\TallerProgramaciónII\Debug\TallerProgramaciónII.MyForm.resources
+C:\Users\DYLAND\Desktop\TallerProgramaciónII\TallerProgramaciónII\Debug\TallerProgramaciónII.vcxproj.GenerateResource.cache

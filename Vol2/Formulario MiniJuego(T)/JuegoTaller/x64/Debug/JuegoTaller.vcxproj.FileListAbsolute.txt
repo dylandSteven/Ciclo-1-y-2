@@ -1,0 +1,4 @@
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\x64\Debug\JuegoTaller.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\x64\Debug\JuegoTaller.FormMenu.resources
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\x64\Debug\JuegoTaller.MyForm.resources
+C:\Users\DYLAND\Desktop\JuegoTaller\JuegoTaller\x64\Debug\JuegoTaller.vcxproj.GenerateResource.cache

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\DYLAND\Documents\ciclo 2\EjercicioArreglo\EjercicioArreglo\ArrPlanVacac.h(30,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\Documents\ciclo 2\EjercicioArreglo\EjercicioArreglo\ArrPlanVacac.h(40,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\Documents\ciclo 2\EjercicioArreglo\EjercicioArreglo\ArrPlanVacac.h(52,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\Documents\ciclo 2\EjercicioArreglo\EjercicioArreglo\ArrPlanVacac.h(60,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\DYLAND\Documents\ciclo 2\EjercicioArreglo\EjercicioArreglo\Source.cpp(11,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  EjercicioArreglo.vcxproj -> C:\Users\DYLAND\Documents\ciclo 2\EjercicioArreglo\Debug\EjercicioArreglo.exe

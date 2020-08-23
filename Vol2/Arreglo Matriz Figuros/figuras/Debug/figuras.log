@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\DYLAND\Documents\ciclo 2\figuras\figuras\Vehiculo.h(52,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\DYLAND\Documents\ciclo 2\figuras\figuras\Moto.h(26,43): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\DYLAND\Documents\ciclo 2\figuras\figuras\Moto.h(27,63): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+C:\Users\DYLAND\Documents\ciclo 2\figuras\figuras\Moto.h(26,43): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\DYLAND\Documents\ciclo 2\figuras\figuras\Moto.h(26,49): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\DYLAND\Documents\ciclo 2\figuras\figuras\Moto.h(26,49): warning C4309: 'inicializando': truncamiento de valor constante
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  figuras.vcxproj -> C:\Users\DYLAND\Documents\ciclo 2\figuras\Debug\figuras.exe

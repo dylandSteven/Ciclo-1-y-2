@@ -1,0 +1,4 @@
+C:\Users\DYLAND\Downloads\PC2\PC2\Debug\PC2.vcxprojAssemblyReference.cache
+C:\Users\DYLAND\Downloads\PC2\PC2\Debug\PC2.MyForm.resources
+C:\Users\DYLAND\Downloads\PC2\PC2\Debug\PC2.vcxproj.GenerateResource.cache
+C:\Users\DYLAND\Downloads\PC2\PC2\Debug\PC2.Nombre.resources

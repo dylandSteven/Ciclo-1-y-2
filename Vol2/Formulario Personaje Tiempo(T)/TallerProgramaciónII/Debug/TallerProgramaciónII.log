@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\DYLAND\Desktop\TallerProgramaciónII\TallerProgramaciónII\Entidad.h(70,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\DYLAND\Desktop\TallerProgramaciónII\TallerProgramaciónII\Entidad.h(70,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TallerProgramaciónII.vcxproj -> C:\Users\DYLAND\Desktop\TallerProgramaciónII\Debug\TallerProgramaciónII.exe
